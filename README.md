@@ -1,7 +1,7 @@
 # funHtml
 Inspired from instagram this is my attempt to mimick it.
 
-If you are unfamilira with how to run an html file:
+If you are unfamiliar with how to run an html file:
 
 Pull this repo to your local by cloning it. 
 
