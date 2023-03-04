@@ -9,13 +9,13 @@ img {
   width: 25%;
 }
 
-#botao1 {
+#button1 {
   position: fixed;
   top: 70%;
   left: 55%;
   transform: translate(-50%, -50%);
 }
-#botao2 {
+#button2 {
   position: absolute;
   left: 39%;
   top: 68%;
